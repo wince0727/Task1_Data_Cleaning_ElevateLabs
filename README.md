@@ -22,4 +22,4 @@ Netflix Movies and TV Shows
 ### Output Screenshot
 Below image shows the successful execution of the Python script and generation of the cleaned dataset:
 
-![Output Screenshot]()
+![Output Screenshot](https://github.com/wince0727/Task1_Data_Cleaning_ElevateLabs/blob/main/Task1_Data_Cleaning/Output.png)
